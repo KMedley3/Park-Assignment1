@@ -15,3 +15,29 @@ span {
 a {
     text-decoration: none;
 }
+
+.subheadings {
+    text-shadow: 2px 2px black;
+    font-weight: bold;
+}
+
+h5 {
+    text-shadow: 2px 2px black;
+    font-size: 30px;
+}
+
+.carousel-header {
+    
+    text-shadow: 2px 2px black;
+    color: white;
+}
+
+h1 {
+    text-shadow: 2px 2px black;
+}
+
+h2 {
+    
+    color: green;
+    text-shadow: 1px 1px black;
+}
